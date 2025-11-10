@@ -40,7 +40,7 @@ export default function ContactSection() {
         >
           {/* WhatsApp */}
           <a
-            href="https://wa.me/5538997352627"
+            href="https://wa.me/553897352627"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 bg-[#6C7042] text-white px-6 py-3 rounded-full hover:bg-[#555937] transition-all"

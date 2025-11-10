@@ -7,7 +7,7 @@ export default function Hero() {
   return (
     <section
       id="inicio"
-      className="relative flex flex-col md:flex-row items-center justify-between px-6 md:px-20 py-20 bg-[#F5EBD3] min-h-screen overflow-hidden"
+      className="relative flex flex-col md:flex-row items-center justify-between px-6 md:px-20 py-20 mt-10 bg-[#F5EBD3] min-h-screen overflow-hidden"
     >
       {/* Conteúdo à esquerda */}
       <div className="z-10 max-w-lg text-center md:text-left">
